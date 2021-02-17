@@ -1,10 +1,8 @@
 ---
+layout: default
+title: "zdeyn"
+lead: "Hello, it's nice to meet you!"
 ---
 
-Welcome to My Home Page
-
-{% assign date = '2021-02-03T10:20:00Z' %}
-
-- Original date - {{ date }}
-- With timeago filter - {{ date | timeago }}
-
+I have nothing to tell you or sell you at this moment in time,
+but please check back soon to see what's happening!
